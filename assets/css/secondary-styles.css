@@ -9,7 +9,7 @@
   color: #fce138;
 }
 
-h2 {
+.hero h2 {
   display: inline-block;
   border-bottom: solid 4px #fce138;
   padding: 0 80px 15px 80px;
